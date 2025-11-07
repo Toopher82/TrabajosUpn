@@ -1,1 +1,2 @@
-Este es el archivo codificado1.txt
+Este es el archivo codificado1.txt y modificado.
+
